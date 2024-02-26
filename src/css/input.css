@@ -8,3 +8,10 @@ body {
     background-color: #eff0eb;
 }
 
+.status__online {
+    border: 3px;
+    border-color: red;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+  }
